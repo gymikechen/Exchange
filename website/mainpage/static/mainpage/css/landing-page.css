@@ -168,3 +168,43 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.bg-img-th {
+    background: url(../img/thiland-main-bg.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg-img-jp {
+    background: url(../img/japan-main-bg.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg-img-kr {
+    background: url(../img/korea-main-bg.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.text-central {
+    position: relative;
+    top: 50%;
+    margin-top: -5em;
+}
+
+.text-contrast {
+    color: #ffffff;
+}
+.main-img-table-cell {
+    position: relative;
+    display: table-cell;
+    padding: 5px;
+    height: 350px;
+    width: 300px;
+}
+
+
